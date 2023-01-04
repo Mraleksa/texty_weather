@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.9eaee59a.css",
-    "main.js": "./static/js/main.266a656b.js",
-    "static/media/weather_kyiv.csv": "./static/media/weather_kyiv.704376aed83df584e106.csv",
-    "static/media/weather.csv": "./static/media/weather.5a0016e535c0d6aca401.csv",
+    "main.css": "./static/css/main.94a78a10.css",
+    "main.js": "./static/js/main.0dafb6de.js",
+    "static/media/weather_kyiv.csv": "./static/media/weather_kyiv.3796ec2609fa68a788fd.csv",
+    "static/media/Dutch TTF Natural Gas Futures Historical Data.csv": "./static/media/Dutch TTF Natural Gas Futures Historical Data.f1d7cde1fffa8a8cdd39.csv",
+    "static/media/weather.csv": "./static/media/weather.d2eb0cba00621f7dc43c.csv",
     "index.html": "./index.html",
-    "main.9eaee59a.css.map": "./static/css/main.9eaee59a.css.map",
-    "main.266a656b.js.map": "./static/js/main.266a656b.js.map"
+    "main.94a78a10.css.map": "./static/css/main.94a78a10.css.map",
+    "main.0dafb6de.js.map": "./static/js/main.0dafb6de.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eaee59a.css",
-    "static/js/main.266a656b.js"
+    "static/css/main.94a78a10.css",
+    "static/js/main.0dafb6de.js"
   ]
 }
